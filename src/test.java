@@ -24,7 +24,7 @@ public class test {
 		Calendar date=Calendar.getInstance();
 		date.set(Calendar.DAY_OF_MONTH, 10);
 		
-		timer.scheduleAtFixedRate(task, 0, 3000);
+		timer.scheduleAtFixedRate(task, 0, 4000);
 	}
 
 }
